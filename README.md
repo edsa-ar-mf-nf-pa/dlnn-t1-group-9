@@ -62,6 +62,7 @@ DLNN project for the Deep Learning Neural Networks course of the 2022 Postgradua
 * plotly (`conda install -c plotly plotly`)
 * tensorflow (`pip install tensorflow`)
 * keras (`conda install -c conda-forge keras`)
+* keras tuner (`pip install keras_tuner --upgrade`)
 
 ## To run the applications:
 
@@ -80,7 +81,12 @@ DLNN project for the Deep Learning Neural Networks course of the 2022 Postgradua
 
 ### Google colab
 
-*
+* Clone the repository
+* Upload the file `colab_webcam_application.ipynb` to google colab
+* Install the following package:
+  * keras tuner (`pip install keras_tuner --upgrade`)
+* Upload the model to the google drive at you choice
+* Update the variable  `model_path` on the `colab_webcam_application.ipynb` with the path from the step above (ex: `/content/drive/MyDrive/model.h5`)
 
 
 ### Mobile Application
