@@ -5,7 +5,7 @@ DLNN project for the Deep Learning Neural Networks course of the 2022 Postgradua
 <center>
 <p>
 <img src="images/application_test_adry_surprise.jpg" align="middle"  width="19.5%" style="float:left"/>
-<img src="images/application_test_pedro_smile.png" align="middle"  width="19.5%" style="float:left"/>
+<img src="images/application_test_david_angry.jpg" align="middle"  width="19.5%" style="float:left"/>
 <img src="images/application_test_marta_sad.jpg" align="middle"  width="19.5%" style="float:left"/>
 <img src="images/application_test_nuno_fear.png" align="middle"  width="19.5%" style="float:left"/>
 <img src="images/application_test_pedro_smile.png" align="middle"  width="19.5%" style="float:left"/>
