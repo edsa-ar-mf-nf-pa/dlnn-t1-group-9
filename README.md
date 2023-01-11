@@ -67,6 +67,8 @@ DLNN project for the Deep Learning Neural Networks course of the 2022 Postgradua
 
 ### Python application
 
+[Video with application test](videos/python_app_test.mp4)
+
 * Clone the repository
 * Install the following packages:
     * tensorflow (`pip install tensorflow`)
