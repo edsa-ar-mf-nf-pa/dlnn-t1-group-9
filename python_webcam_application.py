@@ -14,7 +14,7 @@ import numpy as np
 ### Configuration Section 
 
 frontal_face_identifier = 'models/haarcascade_frontalface_default.xml'  # Object Detection Algorithm used to identify faces in an image or a real time video
-emotional_model_file    = 'models/4cnn_2fc_dropout_2_l2.h5'
+emotional_model_file    = 'models/4cnn_2fc_dropout_4_l201_sgd_01_150epochs_he_batch_256_10.h5'
 class_labels            = ['Angry','Disgust', 'Fear', 'Happy','Neutral','Sad','Surprise']
 
 face_classifier=cv2.CascadeClassifier(frontal_face_identifier)

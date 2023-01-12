@@ -91,6 +91,8 @@ DLNN project for the Deep Learning Neural Networks course of the 2022 Postgradua
 
 ### Mobile Application
 
+[Video with mobile application test](videos/mobile_app_test.mp4)
+
 #### Android
 * Upload the file [emotion_detector_app/emotion-detector.apk](emotion_detector_app/emotion-detector.apk) to your Android
 * On your android enable the permission to install .apk from unknown sources ([more info](https://blog.appaloosa.io/en/guides/how-to-install-apps-from-unknown-sources-in-android))

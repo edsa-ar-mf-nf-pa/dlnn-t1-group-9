@@ -5,7 +5,7 @@ from tensorflow import keras
 from keras.models import load_model
 
 emotional_model_folder = 'models'
-emotional_model_file    = '3cnn_2fc_dropout_2_l2.h5'
+emotional_model_file    = '4cnn_2fc_dropout_4_l201_sgd_01_150epochs_he_batch_256_10.h5'
 
 model = load_model(emotional_model_folder + '\\' + emotional_model_file)
 converter = tf.lite.TFLiteConverter.from_keras_model(model)
